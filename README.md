@@ -1,5 +1,5 @@
 
-<h1><a href="[https://bsg2101.github.io/mix-master-bsg/](https://bsg2101.github.io/mixMaster-bsg/)">Live Demo</a></h1>
+<h1><a href="https://bsg2101.github.io/mixMaster-bsg/">Live Demo</a></h1>
 
 <h2>1-Simple Page</h2>
 <img src="./forreadme/SinglePage.png" />
